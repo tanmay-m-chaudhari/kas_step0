@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Initializing worker node..."
+while true; do sleep 1000; done
